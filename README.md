@@ -1,1 +1,1 @@
-Voice control wheel chair aim to provide independent to the disabilities.This prototype is made up of light weight microcontroller and sensors 
+"The voice-controlled wheelchair aims to provide independence to individuals with disabilities. This prototype is built using lightweight microcontrollers and sensors. I am proud to be one of the top 20 contestants at IIT Guwahati, where I presented my project prototype to various industry experts and gained valuable insights from their feedback."
